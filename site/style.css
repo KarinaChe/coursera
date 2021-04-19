@@ -30,8 +30,15 @@ h1 {
 	top:0;
 	right: 0;
 	background-color:pink;
+	text-align: center;
 }
+.p2{
+	background-color:#40E0D0;
+}
+.p3{
 
+	background-color:#F0E68C;
+}
 
 @media (min-width: 992px) {
   .col-lg-4 {
